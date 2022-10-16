@@ -31,3 +31,29 @@
 
 # Zad 5
 
+# a = int(input())
+# b = int(input())
+# c = int(input())
+# if (c>a and c<b) or (c>b and c<a):
+#   print("TAK")
+# else:
+#   print("NIE")
+
+# Zad 6
+
+# a = int(input())
+# p = int(input())
+# if (a**p-a) % p == 0:
+#   print("TAK, spełna MTF")
+# else:
+#   print("NIE, nie spełnia MTF")
+
+# Zad 7
+
+# p = int(input())
+# k = int(input())
+# s = int(input())
+# if (k - p)//s >= 3:
+#   print:("TAK")
+# else:
+#   print("NIE")
